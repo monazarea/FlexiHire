@@ -1,4 +1,4 @@
-# grad_comp
+# FlexiHire
 
 A new Flutter project.
 

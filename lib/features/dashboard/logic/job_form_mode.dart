@@ -1,0 +1,4 @@
+enum JobFormMode {
+  create,
+  update,
+}
